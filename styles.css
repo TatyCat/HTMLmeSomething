@@ -99,8 +99,7 @@ a, a:link, a:visited, a:hover, a:active {
 .post_pic{
     border-radius: 1%;
     max-height: 150px;
-    max-width: 200px;
-    
+    max-width: 200px;  
 }
 
 .post img:first-child{
@@ -113,5 +112,10 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 footer{
-  margin-left: 230px;  
+    margin-left: 176px; 
+    line-height: 1;
+    color: #35858f;
+    font-family: 'Antic', sans-serif;
+    font-weight: 700;
+     background: hsla(0,0%,100%,.65);
 }
