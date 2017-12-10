@@ -1,0 +1,33 @@
+/*
+header { 
+    display: block;
+}*/
+
+html{
+    background: url(/images/backgroundBrocolli.jpg) no-repeat center center fixed;
+    -webkit-background-size:cover; 
+    -moz-background-size:cover; 
+    -o-background-size:cover; 
+    background-size:cover; 
+}
+
+#logo{
+    width: 30%;
+    max-width: 100%;
+    object-position: center;
+}
+
+.uslocations{
+    
+}
+
+.post{
+    border: 10px solid hsla(0,0%,100%,.5);
+    background: white;
+    background-clip: padding-box;
+}
+
+.post_pic{
+    border-radius: 1%;
+    
+}
